@@ -14,10 +14,10 @@
 
 ### Types:
 
-
+``
 -type shortcode() :: string().
 -type emoji() :: binary().
--type analytic_fun(State) :: fun((shortcode(), State) -> State). 
+-type analytic_fun(State) :: fun((shortcode(), State) -> State). ``
 
 ## The Emoji Module
 
